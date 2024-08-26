@@ -1,0 +1,7 @@
+.mypy*
+.pytest*
+.venv
+.vscode
+*.ipynb
+**/__pycache__
+**/*.egg-info
